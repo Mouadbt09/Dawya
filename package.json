@@ -1,7 +1,7 @@
 {
   "name": "react_p",
   "version": "0.1.0",
-  "homepage":"https://mouadbt09.github.io/Dawya",
+  "homepage": "https://mouadbt09.github.io/Dawya",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
@@ -23,7 +23,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build" 
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
