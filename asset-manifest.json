@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Dawya/static/css/main.0f6963bd.css",
+    "main.js": "/Dawya/static/js/main.703505b4.js",
+    "static/js/787.eed92e9d.chunk.js": "/Dawya/static/js/787.eed92e9d.chunk.js",
+    "static/media/Century-Gothic.ttf": "/Dawya/static/media/Century-Gothic.b194aa2bd524e2c973f7.ttf",
+    "static/media/LemonMilk.otf": "/Dawya/static/media/LemonMilk.a6fcafccaad89be6f2c8.otf",
+    "index.html": "/Dawya/index.html",
+    "main.0f6963bd.css.map": "/Dawya/static/css/main.0f6963bd.css.map",
+    "main.703505b4.js.map": "/Dawya/static/js/main.703505b4.js.map",
+    "787.eed92e9d.chunk.js.map": "/Dawya/static/js/787.eed92e9d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f6963bd.css",
+    "static/js/main.703505b4.js"
+  ]
+}
